@@ -1,14 +1,6 @@
 # tabela-html
 
-  <header>
-     <ol>
-       <li>Home</li>
-       <li>Sobre me</li>
-       <li>Contato</li>
-     </ol>
-     </header>
-     <br>
-     <table>
+   <table>
        <colgroup>
          <col class="blue"> <!-- Estilo azul para o primeiro coluna -->
          <col class="gray"> <!-- Estilo cinza para o segundo coluna -->
